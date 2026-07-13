@@ -1,0 +1,24 @@
+# Environments
+venv/
+env/
+.env
+research-docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector DB Data
+qdrant_data/
+
+# Data
+audio_input/
+*.mp3
+*.wav
+*.flac
+*.m4a
+
+# IDEs
+.vscode/
+.idea/
